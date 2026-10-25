@@ -1,0 +1,3283 @@
+[
+  {
+    "id": "acb-001",
+    "slug": "peugeot-2008-2022-gt-line",
+    "make": "Peugeot",
+    "model": "2008",
+    "version": "1.2 PureTech GT Line EAT8",
+    "year": 2022,
+    "month": 5,
+    "km": 38500,
+    "fuel": "Gasolina",
+    "gearbox": "Automática",
+    "powerHp": 130,
+    "engineCc": 1199,
+    "bodyType": "SUV",
+    "categories": [
+      "suv"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Cinzento Selenium",
+    "owners": 1,
+    "plate": "AT-21-**",
+    "tollClass": 1,
+    "co2": 124,
+    "consumption": "5,5 l/100 km",
+    "price": 24900,
+    "previousPrice": 26400,
+    "vatDeductible": false,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "Novo stock"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8",
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068",
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a",
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a"
+    ],
+    "summary": "Peugeot 2008 1.2 PureTech GT Line EAT8 de 2022, com 38 500 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-05",
+        "km": 8400,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-05",
+        "km": 16700,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-05",
+        "km": 25100,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-05",
+        "km": 33500,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 38500,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "ok"
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-10-10"
+  },
+  {
+    "id": "acb-002",
+    "slug": "renault-clio-2021-intens",
+    "make": "Renault",
+    "model": "Clio",
+    "version": "1.0 TCe Intens",
+    "year": 2021,
+    "month": 3,
+    "km": 52300,
+    "fuel": "Gasolina",
+    "gearbox": "Manual",
+    "powerHp": 90,
+    "engineCc": 999,
+    "bodyType": "Citadino",
+    "categories": [
+      "citadinos"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Vermelho Flamme",
+    "owners": 1,
+    "plate": "AE-08-**",
+    "tollClass": 1,
+    "co2": 118,
+    "consumption": "5,2 l/100 km",
+    "price": 14900,
+    "vatDeductible": false,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2",
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341",
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7",
+      "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8"
+    ],
+    "summary": "Renault Clio 1.0 TCe Intens de 2021, com 52 300 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-03",
+        "km": 9300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-03",
+        "km": 18700,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-03",
+        "km": 28000,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-03",
+        "km": 37400,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-03",
+        "km": 46700,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 52300,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      },
+      {
+        "id": "imp-2",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-02-08"
+  },
+  {
+    "id": "acb-003",
+    "slug": "volkswagen-golf-2021-life",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "version": "2.0 TDI Life",
+    "year": 2021,
+    "month": 9,
+    "km": 68000,
+    "fuel": "Gasóleo",
+    "gearbox": "Manual",
+    "powerHp": 115,
+    "engineCc": 1968,
+    "bodyType": "Compacto",
+    "categories": [
+      "familiares"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Branco Puro",
+    "owners": 1,
+    "plate": "AN-63-**",
+    "tollClass": 1,
+    "co2": 112,
+    "consumption": "4,3 l/100 km",
+    "price": 21900,
+    "vatDeductible": true,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+      "https://images.unsplash.com/photo-1560958089-b8a1929cea89",
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5",
+      "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c",
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7"
+    ],
+    "summary": "Volkswagen Golf 2.0 TDI Life de 2021, com 68 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-09",
+        "km": 12100,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-09",
+        "km": 24300,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-09",
+        "km": 36400,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-09",
+        "km": 48600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 60700,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 68000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      },
+      {
+        "id": "imp-2",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "id": "imp-3",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-03-15"
+  },
+  {
+    "id": "acb-004",
+    "slug": "bmw-serie-3-2020-320d-pack-m",
+    "make": "BMW",
+    "model": "Série 3",
+    "version": "320d Pack M Auto",
+    "year": 2020,
+    "month": 11,
+    "km": 89000,
+    "fuel": "Gasóleo",
+    "gearbox": "Automática",
+    "powerHp": 190,
+    "engineCc": 1995,
+    "bodyType": "Berlina",
+    "categories": [
+      "premium",
+      "familiares"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Azul Portimão",
+    "owners": 2,
+    "plate": "AJ-55-**",
+    "tollClass": 1,
+    "co2": 121,
+    "consumption": "4,6 l/100 km",
+    "price": 32900,
+    "previousPrice": 34500,
+    "vatDeductible": true,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+      "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf"
+    ],
+    "summary": "BMW Série 3 320d Pack M Auto de 2020, com 89 000 km e 2 donos. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-11",
+        "km": 15900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2022-11",
+        "km": 31800,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-11",
+        "km": 47700,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-11",
+        "km": 63600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-11",
+        "km": 79500,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 89000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "ok"
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-04-22"
+  },
+  {
+    "id": "acb-005",
+    "slug": "mercedes-benz-classe-a-2021-180d-amg-line",
+    "make": "Mercedes-Benz",
+    "model": "Classe A",
+    "version": "180 d AMG Line Auto",
+    "year": 2021,
+    "month": 6,
+    "km": 61000,
+    "fuel": "Gasóleo",
+    "gearbox": "Automática",
+    "powerHp": 116,
+    "engineCc": 1461,
+    "bodyType": "Compacto",
+    "categories": [
+      "premium"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Preto Cosmos",
+    "owners": 1,
+    "plate": "AL-17-**",
+    "tollClass": 1,
+    "co2": 117,
+    "consumption": "4,5 l/100 km",
+    "price": 28500,
+    "vatDeductible": false,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537",
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
+      "https://images.unsplash.com/photo-1489824904134-891ab64532f1",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341",
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24",
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d"
+    ],
+    "summary": "Mercedes-Benz Classe A 180 d AMG Line Auto de 2021, com 61 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-06",
+        "km": 10900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-06",
+        "km": 21800,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-06",
+        "km": 32700,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-06",
+        "km": 43600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-06",
+        "km": 54500,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 61000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "id": "imp-2",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-05-02"
+  },
+  {
+    "id": "acb-006",
+    "slug": "tesla-model-3-2022-long-range",
+    "make": "Tesla",
+    "model": "Model 3",
+    "version": "Long Range AWD",
+    "year": 2022,
+    "month": 4,
+    "km": 45000,
+    "fuel": "Elétrico",
+    "gearbox": "Automática",
+    "powerHp": 440,
+    "engineCc": null,
+    "batteryKwh": 75,
+    "rangeKm": 602,
+    "bodyType": "Berlina",
+    "categories": [
+      "eletricos-hibridos",
+      "premium"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Branco Pérola",
+    "owners": 1,
+    "plate": "AS-90-**",
+    "tollClass": 1,
+    "co2": 0,
+    "consumption": "14,4 kWh/100 km",
+    "price": 34900,
+    "previousPrice": 36900,
+    "vatDeductible": true,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "Novo stock",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068",
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a",
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5",
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537"
+    ],
+    "summary": "Tesla Model 3 Long Range AWD de 2022, com 45 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante",
+          "Pré-climatização remota via app"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital",
+          "Planeamento de rotas com carregamento"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico",
+          "Cabo de carregamento Tipo 2"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-04",
+        "km": 9800,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-04",
+        "km": 19600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-04",
+        "km": 29300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-04",
+        "km": 39100,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 45000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      },
+      {
+        "id": "imp-2",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      },
+      {
+        "id": "imp-3",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-10-15"
+  },
+  {
+    "id": "acb-007",
+    "slug": "toyota-c-hr-2021-hybrid-square-collection",
+    "make": "Toyota",
+    "model": "C-HR",
+    "version": "1.8 Hybrid Square Collection",
+    "year": 2021,
+    "month": 2,
+    "km": 57000,
+    "fuel": "Híbrido",
+    "gearbox": "Automática",
+    "powerHp": 122,
+    "engineCc": 1798,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "eletricos-hibridos"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Cinzento Metal",
+    "owners": 1,
+    "plate": "AC-34-**",
+    "tollClass": 1,
+    "co2": 110,
+    "consumption": "4,9 l/100 km",
+    "price": 23900,
+    "vatDeductible": false,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7",
+      "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068"
+    ],
+    "summary": "Toyota C-HR 1.8 Hybrid Square Collection de 2021, com 57 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-02",
+        "km": 10200,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-02",
+        "km": 20400,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-02",
+        "km": 30500,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-02",
+        "km": 40700,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-02",
+        "km": 50900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 57000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "ok"
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-07-16"
+  },
+  {
+    "id": "acb-008",
+    "slug": "seat-leon-2022-fr",
+    "make": "Seat",
+    "model": "Leon",
+    "version": "1.5 TSI FR",
+    "year": 2022,
+    "month": 7,
+    "km": 31000,
+    "fuel": "Gasolina",
+    "gearbox": "Manual",
+    "powerHp": 150,
+    "engineCc": 1498,
+    "bodyType": "Compacto",
+    "categories": [
+      "familiares"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Azul Mistério",
+    "owners": 1,
+    "plate": "AV-12-**",
+    "tollClass": 1,
+    "co2": 131,
+    "consumption": "5,8 l/100 km",
+    "price": 22500,
+    "vatDeductible": false,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c",
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341",
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2",
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888",
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7"
+    ],
+    "summary": "Seat Leon 1.5 TSI FR de 2022, com 31 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-07",
+        "km": 6700,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-07",
+        "km": 13500,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-07",
+        "km": 20200,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-07",
+        "km": 27000,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 31000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      },
+      {
+        "id": "imp-2",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-08-23"
+  },
+  {
+    "id": "acb-009",
+    "slug": "kia-sportage-2022-drive",
+    "make": "Kia",
+    "model": "Sportage",
+    "version": "1.6 CRDi MHEV Drive",
+    "year": 2022,
+    "month": 10,
+    "km": 42000,
+    "fuel": "Gasóleo",
+    "gearbox": "Manual",
+    "powerHp": 136,
+    "engineCc": 1598,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "familiares"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Cinzento Penta",
+    "owners": 1,
+    "plate": "AZ-48-**",
+    "tollClass": 1,
+    "co2": 139,
+    "consumption": "5,3 l/100 km",
+    "price": 27900,
+    "vatDeductible": true,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "Novo stock",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5",
+      "https://images.unsplash.com/photo-1560958089-b8a1929cea89",
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+      "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c"
+    ],
+    "summary": "Kia Sportage 1.6 CRDi MHEV Drive de 2022, com 42 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-10",
+        "km": 9100,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-10",
+        "km": 18300,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-10",
+        "km": 27400,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-10",
+        "km": 36500,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 42000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      },
+      {
+        "id": "imp-2",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      },
+      {
+        "id": "imp-3",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-10-18"
+  },
+  {
+    "id": "acb-010",
+    "slug": "volvo-xc40-2021-t4-recharge-inscription",
+    "make": "Volvo",
+    "model": "XC40",
+    "version": "T4 Recharge Plug-in Inscription",
+    "year": 2021,
+    "month": 5,
+    "km": 49000,
+    "fuel": "Híbrido Plug-in",
+    "gearbox": "Automática",
+    "powerHp": 211,
+    "engineCc": 1477,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "eletricos-hibridos",
+      "premium"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Cinzento Thunder",
+    "owners": 1,
+    "plate": "AH-72-**",
+    "tollClass": 1,
+    "co2": 47,
+    "consumption": "2,1 l/100 km",
+    "price": 33900,
+    "previousPrice": 35900,
+    "vatDeductible": true,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24",
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+      "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399"
+    ],
+    "summary": "Volvo XC40 T4 Recharge Plug-in Inscription de 2021, com 49 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante",
+          "Pré-climatização remota via app"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital",
+          "Planeamento de rotas com carregamento"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico",
+          "Cabo de carregamento Tipo 2",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-05",
+        "km": 8800,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-05",
+        "km": 17500,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-05",
+        "km": 26300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-05",
+        "km": 35000,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-05",
+        "km": 43800,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 49000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "ok"
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-02-10"
+  },
+  {
+    "id": "acb-011",
+    "slug": "renault-captur-2023-evolution",
+    "make": "Renault",
+    "model": "Captur",
+    "version": "1.0 TCe Evolution",
+    "year": 2023,
+    "month": 4,
+    "km": 18000,
+    "fuel": "Gasolina",
+    "gearbox": "Manual",
+    "powerHp": 90,
+    "engineCc": 999,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "citadinos"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Laranja Atacama",
+    "owners": 1,
+    "plate": "BC-05-**",
+    "tollClass": 1,
+    "co2": 126,
+    "consumption": "5,6 l/100 km",
+    "price": 19900,
+    "vatDeductible": false,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "Novo stock",
+      "Baixa quilometragem"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341",
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
+      "https://images.unsplash.com/photo-1489824904134-891ab64532f1",
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24"
+    ],
+    "summary": "Renault Captur 1.0 TCe Evolution de 2023, com 18 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-04",
+        "km": 5000,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-04",
+        "km": 10000,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-04",
+        "km": 15000,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 18000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      },
+      {
+        "id": "imp-2",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-10-20"
+  },
+  {
+    "id": "acb-012",
+    "slug": "peugeot-308-sw-2022-allure",
+    "make": "Peugeot",
+    "model": "308 SW",
+    "version": "1.5 BlueHDi Allure EAT8",
+    "year": 2022,
+    "month": 2,
+    "km": 55000,
+    "fuel": "Gasóleo",
+    "gearbox": "Automática",
+    "powerHp": 130,
+    "engineCc": 1499,
+    "bodyType": "Carrinha",
+    "categories": [
+      "familiares"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Azul Vertigo",
+    "owners": 1,
+    "plate": "AQ-29-**",
+    "tollClass": 1,
+    "co2": 115,
+    "consumption": "4,4 l/100 km",
+    "price": 23500,
+    "vatDeductible": true,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068",
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5",
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a",
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+    ],
+    "summary": "Peugeot 308 SW 1.5 BlueHDi Allure EAT8 de 2022, com 55 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-02",
+        "km": 12000,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-02",
+        "km": 23900,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-02",
+        "km": 35900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-02",
+        "km": 47800,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 55000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      },
+      {
+        "id": "imp-2",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      },
+      {
+        "id": "imp-3",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-04-24"
+  },
+  {
+    "id": "acb-013",
+    "slug": "volkswagen-polo-2022-life",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "version": "1.0 TSI Life",
+    "year": 2022,
+    "month": 8,
+    "km": 29000,
+    "fuel": "Gasolina",
+    "gearbox": "Manual",
+    "powerHp": 95,
+    "engineCc": 999,
+    "bodyType": "Citadino",
+    "categories": [
+      "citadinos"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Cinzento Lua",
+    "owners": 1,
+    "plate": "AX-66-**",
+    "tollClass": 1,
+    "co2": 119,
+    "consumption": "5,3 l/100 km",
+    "price": 16900,
+    "vatDeductible": false,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "Baixa quilometragem"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2",
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888",
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8",
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023"
+    ],
+    "summary": "Volkswagen Polo 1.0 TSI Life de 2022, com 29 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-08",
+        "km": 6300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-08",
+        "km": 12600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-08",
+        "km": 18900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-08",
+        "km": 25200,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 29000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "ok"
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-05-04"
+  },
+  {
+    "id": "acb-014",
+    "slug": "bmw-x1-2020-sdrive18d-xline",
+    "make": "BMW",
+    "model": "X1",
+    "version": "sDrive18d xLine Auto",
+    "year": 2020,
+    "month": 6,
+    "km": 79000,
+    "fuel": "Gasóleo",
+    "gearbox": "Automática",
+    "powerHp": 150,
+    "engineCc": 1995,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "premium"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Preto Safira",
+    "owners": 2,
+    "plate": "AF-83-**",
+    "tollClass": 1,
+    "co2": 128,
+    "consumption": "4,9 l/100 km",
+    "price": 27500,
+    "previousPrice": 28900,
+    "vatDeductible": true,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1560958089-b8a1929cea89",
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+      "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341",
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2"
+    ],
+    "summary": "BMW X1 sDrive18d xLine Auto de 2020, com 79 000 km e 2 donos. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-06",
+        "km": 14100,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2022-06",
+        "km": 28200,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-06",
+        "km": 42300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-06",
+        "km": 56400,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-06",
+        "km": 70500,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 79000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      },
+      {
+        "id": "imp-2",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-06-11"
+  },
+  {
+    "id": "acb-015",
+    "slug": "mercedes-benz-gla-2021-250e-amg-line",
+    "make": "Mercedes-Benz",
+    "model": "GLA",
+    "version": "250 e AMG Line",
+    "year": 2021,
+    "month": 10,
+    "km": 41000,
+    "fuel": "Híbrido Plug-in",
+    "gearbox": "Automática",
+    "powerHp": 218,
+    "engineCc": 1332,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "eletricos-hibridos",
+      "premium"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Prata Iridium",
+    "owners": 1,
+    "plate": "AO-51-**",
+    "tollClass": 1,
+    "co2": 34,
+    "consumption": "1,5 l/100 km",
+    "price": 37900,
+    "vatDeductible": true,
+    "featured": true,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+      "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399",
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+      "https://images.unsplash.com/photo-1560958089-b8a1929cea89"
+    ],
+    "summary": "Mercedes-Benz GLA 250 e AMG Line de 2021, com 41 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante",
+          "Pré-climatização remota via app"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital",
+          "Planeamento de rotas com carregamento"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico",
+          "Cabo de carregamento Tipo 2",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-10",
+        "km": 7300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-10",
+        "km": 14600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-10",
+        "km": 22000,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-10",
+        "km": 29300,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-10",
+        "km": 36600,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 41000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "id": "imp-2",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      },
+      {
+        "id": "imp-3",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-07-18"
+  },
+  {
+    "id": "acb-016",
+    "slug": "toyota-yaris-2022-hybrid-comfort",
+    "make": "Toyota",
+    "model": "Yaris",
+    "version": "1.5 Hybrid Comfort",
+    "year": 2022,
+    "month": 3,
+    "km": 24000,
+    "fuel": "Híbrido",
+    "gearbox": "Automática",
+    "powerHp": 116,
+    "engineCc": 1490,
+    "bodyType": "Citadino",
+    "categories": [
+      "citadinos",
+      "eletricos-hibridos"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Branco Glaciar",
+    "owners": 1,
+    "plate": "AR-02-**",
+    "tollClass": 1,
+    "co2": 92,
+    "consumption": "3,9 l/100 km",
+    "price": 18900,
+    "vatDeductible": false,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "Baixa quilometragem"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
+      "https://images.unsplash.com/photo-1489824904134-891ab64532f1",
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027",
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6"
+    ],
+    "summary": "Toyota Yaris 1.5 Hybrid Comfort de 2022, com 24 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2023-03",
+        "km": 5200,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-03",
+        "km": 10400,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-03",
+        "km": 15700,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-03",
+        "km": 20900,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 24000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Risco ligeiro no para-choques traseiro",
+        "detail": "Risco superficial com cerca de 3 cm, sem atingir o primário. Não afeta a proteção da pintura.",
+        "severity": "ligeira",
+        "x": 78,
+        "y": 62
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "ok"
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-08-25"
+  },
+  {
+    "id": "acb-017",
+    "slug": "hyundai-kauai-ev-2021-premium",
+    "make": "Hyundai",
+    "model": "Kauai EV",
+    "version": "64 kWh Premium",
+    "year": 2021,
+    "month": 7,
+    "km": 38000,
+    "fuel": "Elétrico",
+    "gearbox": "Automática",
+    "powerHp": 204,
+    "engineCc": null,
+    "batteryKwh": 64,
+    "rangeKm": 484,
+    "bodyType": "SUV",
+    "categories": [
+      "suv",
+      "eletricos-hibridos"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Azul Surf",
+    "owners": 1,
+    "plate": "AM-40-**",
+    "tollClass": 1,
+    "co2": 0,
+    "consumption": "14,7 kWh/100 km",
+    "price": 24500,
+    "previousPrice": 25900,
+    "vatDeductible": true,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a",
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a",
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537",
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2"
+    ],
+    "summary": "Hyundai Kauai EV 64 kWh Premium de 2021, com 38 000 km e um único dono. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Patilhas de mudanças no volante",
+          "Pré-climatização remota via app"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Planeamento de rotas com carregamento"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Cabo de carregamento Tipo 2",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-07",
+        "km": 6800,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-07",
+        "km": 13600,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-07",
+        "km": 20400,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-07",
+        "km": 27100,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-07",
+        "km": 33900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 38000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      },
+      {
+        "id": "imp-2",
+        "title": "Pequena mossa na porta traseira direita",
+        "detail": "Mossa sem danos na pintura (≈ 1 cm). Reparável por técnica PDR, se o cliente desejar.",
+        "severity": "moderada",
+        "x": 61,
+        "y": 50
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-01-05"
+  },
+  {
+    "id": "acb-018",
+    "slug": "audi-a4-avant-2021-35-tdi-s-line",
+    "make": "Audi",
+    "model": "A4 Avant",
+    "version": "35 TDI S line S tronic",
+    "year": 2021,
+    "month": 1,
+    "km": 72000,
+    "fuel": "Gasóleo",
+    "gearbox": "Automática",
+    "powerHp": 163,
+    "engineCc": 1968,
+    "bodyType": "Carrinha",
+    "categories": [
+      "premium",
+      "familiares"
+    ],
+    "doors": 5,
+    "seats": 5,
+    "color": "Cinzento Daytona",
+    "owners": 2,
+    "plate": "AB-97-**",
+    "tollClass": 1,
+    "co2": 124,
+    "consumption": "4,7 l/100 km",
+    "price": 33500,
+    "vatDeductible": true,
+    "featured": false,
+    "badges": [
+      "Revisto",
+      "Garantia",
+      "IVA dedutível"
+    ],
+    "warrantyMonths": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8",
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5",
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068",
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a"
+    ],
+    "summary": "Audi A4 Avant 35 TDI S line S tronic de 2021, com 72 000 km e 2 donos. Histórico de manutenção verificado, inspeção pré-venda de 140 pontos e revisão completa antes da entrega.",
+    "equipment": [
+      {
+        "category": "Segurança",
+        "items": [
+          "ABS e ESP",
+          "6+ airbags",
+          "Travagem autónoma de emergência",
+          "Aviso de saída de faixa",
+          "Reconhecimento de sinais de trânsito",
+          "Sistema ISOFIX",
+          "Cruise control adaptativo",
+          "Assistente de ângulo morto",
+          "Head-up display"
+        ]
+      },
+      {
+        "category": "Conforto",
+        "items": [
+          "Ar condicionado automático bizona",
+          "Sensores de estacionamento dianteiros e traseiros",
+          "Câmara de marcha-atrás",
+          "Arranque sem chave",
+          "Bancos dianteiros aquecidos",
+          "Bancos em pele",
+          "Bancos elétricos com memória",
+          "Iluminação ambiente",
+          "Patilhas de mudanças no volante"
+        ]
+      },
+      {
+        "category": "Multimédia",
+        "items": [
+          "Ecrã tátil central",
+          "Apple CarPlay e Android Auto",
+          "Navegação GPS",
+          "Bluetooth com mãos-livres",
+          "Carregador de telemóvel por indução",
+          "Sistema de som premium",
+          "Painel de instrumentos digital"
+        ]
+      },
+      {
+        "category": "Exterior",
+        "items": [
+          "Faróis LED",
+          "Jantes de liga leve",
+          "Espelhos rebatíveis eletricamente",
+          "Vidros traseiros escurecidos",
+          "Faróis Matrix LED",
+          "Portão traseiro elétrico",
+          "Barras de tejadilho"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2022-01",
+        "km": 12900,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2023-01",
+        "km": 25700,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2024-01",
+        "km": 38600,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2025-01",
+        "km": 51400,
+        "description": "Revisão anual com substituição de óleo, filtros e líquido de travões",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-01",
+        "km": 64300,
+        "description": "Revisão periódica com substituição de óleo e filtros",
+        "workshop": "Concessionário oficial da marca"
+      },
+      {
+        "date": "2026-09",
+        "km": 72000,
+        "description": "Inspeção pré-venda de 140 pontos e revisão completa",
+        "workshop": "Oficina AutoCasteloBranco"
+      }
+    ],
+    "imperfections": [
+      {
+        "id": "imp-1",
+        "title": "Desgaste no banco do condutor",
+        "detail": "Ligeiro desgaste na abada lateral, consistente com a quilometragem.",
+        "severity": "ligeira",
+        "x": 46,
+        "y": 44
+      },
+      {
+        "id": "imp-2",
+        "title": "Pedra no para-brisas (reparada)",
+        "detail": "Impacto reparado com resina, fora do campo de visão do condutor. Não afeta a inspeção.",
+        "severity": "ligeira",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "id": "imp-3",
+        "title": "Marca de uso na jante dianteira esquerda",
+        "detail": "Pequena marca de passeio no rebordo da jante (≈ 2 cm).",
+        "severity": "ligeira",
+        "x": 24,
+        "y": 74
+      }
+    ],
+    "inspection": [
+      {
+        "area": "Motor e transmissão",
+        "points": 32,
+        "status": "ok"
+      },
+      {
+        "area": "Travões e suspensão",
+        "points": 24,
+        "status": "ok"
+      },
+      {
+        "area": "Carroçaria e pintura",
+        "points": 28,
+        "status": "atenção",
+        "note": "Pequenas imperfeições assinaladas na secção Transparência."
+      },
+      {
+        "area": "Interior e eletrónica",
+        "points": 30,
+        "status": "ok"
+      },
+      {
+        "area": "Pneus e jantes",
+        "points": 8,
+        "status": "ok",
+        "note": "Profundidade mínima do piso: 5,5 mm."
+      },
+      {
+        "area": "Teste de estrada",
+        "points": 18,
+        "status": "ok"
+      }
+    ],
+    "arrivedAt": "2026-02-12"
+  }
+]

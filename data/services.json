@@ -1,0 +1,10 @@
+[
+  { "id": "revisao", "name": "Revisão periódica", "description": "Substituição de óleo e filtros segundo o plano do fabricante, com verificação de 40 pontos e carimbo digital.", "durationMin": 90, "priceFrom": 89, "icon": "ClipboardCheck", "popular": true },
+  { "id": "diagnostico", "name": "Diagnóstico eletrónico", "description": "Leitura de avarias com equipamento multimarca, relatório explicado e orçamento sem compromisso.", "durationMin": 45, "priceFrom": 35, "icon": "Cpu" },
+  { "id": "travoes", "name": "Travões", "description": "Pastilhas, discos e líquido de travões. Verificação de desgaste e teste de eficácia.", "durationMin": 120, "priceFrom": 79, "icon": "Disc3" },
+  { "id": "pneus", "name": "Pneus e alinhamento", "description": "Montagem, equilibragem e alinhamento de direção com equipamento 3D.", "durationMin": 60, "priceFrom": 29, "icon": "CircleDot", "popular": true },
+  { "id": "ac", "name": "Ar condicionado", "description": "Carga de gás, desinfeção do circuito e substituição do filtro de habitáculo.", "durationMin": 60, "priceFrom": 59, "icon": "Snowflake" },
+  { "id": "ipo", "name": "Preparação para inspeção (IPO)", "description": "Pré-inspeção completa e correção do necessário. Opcionalmente levamos a viatura ao centro de inspeção.", "durationMin": 60, "priceFrom": 39, "icon": "ShieldCheck" },
+  { "id": "mecanica", "name": "Mecânica geral", "description": "Embraiagens, distribuição, suspensão e escapes. Orçamento prévio e peças de qualidade original.", "durationMin": 180, "priceFrom": 49, "icon": "Wrench" },
+  { "id": "eletricos", "name": "Híbridos e elétricos", "description": "Técnicos certificados em alta tensão: diagnóstico de bateria, sistemas de refrigeração e manutenção específica.", "durationMin": 90, "priceFrom": 69, "icon": "BatteryCharging" }
+]
